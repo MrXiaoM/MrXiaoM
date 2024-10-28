@@ -1,10 +1,16 @@
-<a href="https://github.com/MrXiaoM/Overflow" target="_blank"><img width="100%" src="https://mirai.mamoe.net/assets/uploads/files/1702556314432-overflow.png"/></a>
-
-------
+<a href="https://github.com/MrXiaoM/Overflow" target="_blank">
+  <img width="100%" src="https://mirai.mrxiaom.top/assets/images/bg.jpg" alt="Overflow" title="Overflow" />
+</a>
+<div align="center">
+  <i>Overflow —— 欢迎回到 mirai</i>
+  <hr/>
+</div>
 
 <a href="https://space.bilibili.com/330771760" target="_blank"><img width="100%" src="https://i0.hdslb.com/bfs/space/12352019bc73e77949534268094d04c2875f3afb.png@2560w_400h_100q_1o.webp"/></a>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrxiaom&show_icons=true&title_color=00FFC6&text_color=F8F8FF&icon_color=fff000&bg_color=30,10111E,282A35&hide_border=true"/>
-<h2><a href="https://mrxiaom.top" target="_blank">MrXiaoM</a></h2>
+<h2>
+  <a href="https://mrxiaom.top" target="_blank">MrXiaoM</a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrxiaom&show_icons=true&title_color=00FFC6&text_color=F8F8FF&icon_color=fff000&bg_color=30,10111E,282A35&hide_border=true"/>
+</h2>
 
 I am a noob, and also a 19-year-old college student. I am still learning
 
@@ -15,11 +21,10 @@ I am a noob, and also a 19-year-old college student. I am still learning
 [![Japanese](https://img.shields.io/badge/Japanese-151623?style=for-the-badge&logo=headspace&logoColor=CE3F53)](#)
 
 I have a lot of amateur interests. I am also a video uploader, VOCALOID-like producer, illustrator, and so on.  
-As a coder, I also know a few about C(Keil μvision)/C++/HTML/CSS/JavaScript/Shell/Python. My second language is only Kotlin and `if (it !is necessary) I.wouldUse().not()`.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrXiaoM&layout=donut&title_color=00FFC6&text_color=F8F8FF&icon_color=fff000&bg_color=30,10111E,282A35&hide_border=true"/>
 
 My major languages are Java and C# now.... eh.. Chinese and English also.
-
-[<img align="right" width="42%" src="https://github.com/MrXiaoM/MrXiaoM/blob/main/afdian.jpg" alt="前往 爱发电 支持我"/>](https://afdian.com/a/mrxiaom)
 
 | Item | Infomation |
 | ---- | ---- |
@@ -27,6 +32,9 @@ My major languages are Java and C# now.... eh.. Chinese and English also.
 | QQ | [2431208142](http://wpa.qq.com/msgrd?v=3&uin=2431208142&site=qq&menu=yes) |
 | Email | [coolxiaom95@gmail.com](mailto:coolxiaom95@gmail.com) |
 | Social media | [MrXiaoM/SOCIAL.md](https://github.com/MrXiaoM/MrXiaoM/blob/main/SOCIAL.md) |
+
+[<img align="right" width="30%" src="https://github.com/MrXiaoM/MrXiaoM/blob/main/afdian.jpg" alt="前往 爱发电 支持我"/>](https://afdian.com/a/mrxiaom)
+As a coder, I also know a few about C(Keil μvision) / C++ / HTML / CSS / JavaScript / Shell / Python and so on. My second language is only Kotlin and `if (it !is necessary) I.wouldUse().not()`.
 
 Softwares I am in common use:
 
@@ -55,6 +63,8 @@ Please check [my website](https://www.mrxiaom.top/#env) for my full developing e
 # My Plugins about Minecraft
 > Starts with `*` means forks.
 
+* [SweetDevelopment](https://github.com/MrXiaoM/SweetDevelopment): Developer tools.
+* [MMOi18n](https://github.com/MrXiaoM/MMOi18n): MMOItems translation plugin.
 * [WelcomeActions](https://github.com/MrXiaoM/WelcomeActions): Execute custom commands when player welcome newbies.
 * [PremiumVerify](https://github.com/MrXiaoM/PremiumVerify): Paid Minecraft Account verify.
 * [HideMyArmors](https://github.com/MrXiaoM/HideMyArmors): Hide your armors to other players.
