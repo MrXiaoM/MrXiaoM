@@ -48,6 +48,8 @@ Softwares I am in common use:
 Please check [my website](https://www.mrxiaom.top/#env) for my full developing environments.
 
 # My Projects about Mirai
++ [fpv](https://github.com/MrXiaoM/fpv/tree/trpgbot): trpgbot encrypt signer client.
++ [protocol-versions](https://github.com/MrXiaoM/protocol-versions): protocol versions 8.9.58 - latest, auto update everyday
 * [Overflow](https://github.com/MrXiaoM/Overflow): A mirai port of Onebot implementation.
 * [MiraiDailySign](https://github.com/MrXiaoM/MiraiDailySign): A deeply customizable daily sign plugin.
 * ~~[mirai-console-dev-qrlogin](https://github.com/MrXiaoM/mirai-console-dev-qrlogin): QRCode login commands on mirai-console.~~ [DEPRECATED]
