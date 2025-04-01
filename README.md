@@ -12,7 +12,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrxiaom&show_icons=true&title_color=00FFC6&text_color=F8F8FF&icon_color=fff000&bg_color=30,10111E,282A35&hide_border=true"/>
 </h2>
 
-I am a noob, and also a 19-year-old college student. I am still learning
+I am a noob, and also a 20-year-old college student. I am still learning
 
 [![kotlin](https://img.shields.io/badge/kotlin-151623?style=for-the-badge&logo=kotlin&logoColor=00FEC5)](https://kotlinlang.org/) 
 [![java](https://img.shields.io/badge/java-151623?style=for-the-badge&logo=openjdk&logoColor=00FEC5)](https://openjdk.org/) 
@@ -33,7 +33,6 @@ My major languages are Java and C# now.... eh.. Chinese and English also.
 | Email | [coolxiaom95@gmail.com](mailto:coolxiaom95@gmail.com) |
 | Social media | [MrXiaoM/SOCIAL.md](https://github.com/MrXiaoM/MrXiaoM/blob/main/SOCIAL.md) |
 
-[<img align="right" width="30%" src="https://github.com/MrXiaoM/MrXiaoM/blob/main/afdian.jpg" alt="前往 爱发电 支持我"/>](https://afdian.com/a/mrxiaom)
 As a coder, I also know a few about C(Keil μvision) / C++ / HTML / CSS / JavaScript / Shell / Python and so on. My second language is only Kotlin and `if (it !is necessary) I.wouldUse().not()`.
 
 Softwares I am in common use:
@@ -47,74 +46,22 @@ Softwares I am in common use:
 
 Please check [my website](https://www.mrxiaom.top/#env) for my full developing environments.
 
-# My Projects about Mirai
-+ [fpv](https://github.com/MrXiaoM/fpv/tree/trpgbot): trpgbot encrypt signer client.
-+ [protocol-versions](https://github.com/MrXiaoM/protocol-versions): protocol versions 8.9.58 - latest, auto update everyday
-* [Overflow](https://github.com/MrXiaoM/Overflow): A mirai port of Onebot implementation.
-* [MiraiDailySign](https://github.com/MrXiaoM/MiraiDailySign): A deeply customizable daily sign plugin.
-* ~~[mirai-console-dev-qrlogin](https://github.com/MrXiaoM/mirai-console-dev-qrlogin): QRCode login commands on mirai-console.~~ [DEPRECATED]
-* ~~[Aoki](https://github.com/MrXiaoM/Aoki): Login mirai via your Android phone.~~ [DEPRECATED]
-* ~~[GraphicalMirai](https://github.com/MrXiaoM/GraphicalMirai): A Mirai Console Downloader and Launcher, Plugin Center and so on! (WIP)~~ [DEPRECATED]
-* ~~[LoliYouWant](https://github.com/MrXiaoM/LoliYouWant): Fetch artworks from [Lolibooru](https://lolibooru.moe).~~ [DEPRECATED]
-* [WifeYouWant](https://github.com/MrXiaoM/WifeYouWant): Choose a random member from a group to be sender's wife.
-* [SpecialTitleYouWant](https://github.com/MrXiaoM/SpecialTitleYouWant): Set sender's special title (also "头衔" in Chinese) via command.
-* [CommandYouWant](https://github.com/MrXiaoM/CommandYouWant): Redirect your custom command to specific commands.
-* ~~[Natsuko](https://github.com/MrXiaoM/Natsuko): My early period work.~~ [DEPRECATED]
-* ~~[MiraiUtils](https://github.com/MrXiaoM/MiraiUtils): Simple command manager. (Not Recommend to Use)~~ [DEPRECATED]
+# Highlight Projects
 
-# My Plugins about Minecraft
-> Starts with `*` means forks.
+Pick and sort by myself. Not all popular repositories would be picked.
 
-* [SweetDevelopment](https://github.com/MrXiaoM/SweetDevelopment): Developer tools.
-* [MMOi18n](https://github.com/MrXiaoM/MMOi18n): MMOItems translation plugin.
-* [WelcomeActions](https://github.com/MrXiaoM/WelcomeActions): Execute custom commands when player welcome newbies.
-* [PremiumVerify](https://github.com/MrXiaoM/PremiumVerify): Paid Minecraft Account verify.
-* [HideMyArmors](https://github.com/MrXiaoM/HideMyArmors): Hide your armors to other players.
-* [SweetMail](https://github.com/MrXiaoM/SweetMail): Send mail to players with item attachments and so on.
-* [MythicMobsProtection](https://github.com/MrXiaoM/MythicMobsProtection): Protect players and entities from illegal damage of Mobs and Skills.
-* [ShadowBook](https://github.com/MrXiaoM/ShadowBook): (Alpha Testing) Move your writtable/written book contents into database to disable item duplicating via books.
-* *[MoreMobHeads](https://github.com/MrXiaoM/MoreMobHeads): A much more better mob beheading plugin. Rebuilt from the ashes of original author.
-* *[RPGItems-reborn](https://github.com/MrXiaoM/RPGItems-reborn): A brand new hard-fork from [NyaaCat Community](https://github.com/NyaaCat/). Add more wonderful features! **[ACTIVE 1.8-1.21]**
-* *[Billboards](https://github.com/MrXiaoM/Billboards): A fork from blablubbabc. Make it more functionable.
-* *[StaticMap](https://github.com/MrXiaoM/StaticMap): (fork) Lock map color data into NBT. Map content would not be changed when the item pass to another server.
-* *[CraftItem](https://github.com/MrXiaoM/CraftItem): Item crafting with many times of forging.
-* *[CrazyCratesLegacy](https://github.com/MrXiaoM/CrazyCratesLegacy): A CrazyCrates fork that support Paper 1.16.5, Java 8. More features available.
-* [RaidLimiter](https://github.com/MrXiaoM/RaidLimiter): Limit times that player can raid every configurable duration.
-* *[DeathMessages](https://github.com/MrXiaoM/DeathMessages): A java 8 supported fork of DeathMessages plugin. Mouse hover and click support.
-* *[Guilds](https://github.com/MrXiaoM/Guilds): A fork for my server.
-* [RPGProject](https://github.com/MrXiaoM/RPGProject): Edit RPGItems item in chest GUI.
-* [PlaceholderAPI:TimeOperate-Expansion](https://github.com/MrXiaoM/TimeOperate-Expansion): A PAPI expansion for calculating time (or timestamp).
-* [PlaceholderAPI:LangUtils-Expansion](https://github.com/MrXiaoM/LangUtils-Expansion): A PAPI expansion for translating item name, entity name, enchantment name, etc.
-* ~~*[CommandPrompter_Java8](https://github.com/MrXiaoM/CommandPrompter_Java8): A java 8 supported fork of CP.~~ [DEPRECATED]
-* ~~*[Iris](https://github.com/MrXiaoM/Iris): Effective world generator for Minecraft 1.16.5 and java 11.~~ [DEPRECATED]
-* [ResidenceLinker](https://github.com/MrXiaoM/ResidenceLinker): Link Residence between BungeeCord. (WIP)
-* [PixelmonStrengthen](https://github.com/MrXiaoM/PixelmonStrengthen): Sacrifice a lot of weak pokemon to build a stronger pokemon.
-* [DoomsdayEssentials](https://github.com/MrXiaoM/DoomsdayEssentials): Outdate plugin in my old server.
-* [DoomsdayVerify](https://github.com/MrXiaoM/DoomsdayVerify): Paid Minecraft Account verify.
-* [CatSense](https://github.com/MrXiaoM/CatSense): Functional plugin in CityZero. (零都市)
-* [RegularChest](https://github.com/MrXiaoM/RegularChest): Generate chest regularly in an area of a world with custom items.
+> WIP. I plan to draw thumbnails for all of them.
 
-# My Mods about Minecraft
-> Starts with `*` means forks.
+| [Overflow](https://github.com/MrXiaoM/Overflow) | [Eden](https://github.com/MrXiaoM/Eden) | [SweetMail](https://github.com/MrXiaoM/SweetMail) |
+| --- | --- | --- |
+| [uta-tap](https://github.com/MrXiaoM/uta-tap) |  |  |
 
-* [ForceAccessServer](https://github.com/MrXiaoM/ForceAccessServer): Force access MultiplayerScreen and ChatScreen in offline mode.
-* [AnonymousHelper](https://github.com/MrXiaoM/AnonymousHelper): A backdoor mod I wrote in my early period.
-* [Fantasia](https://github.com/MrXiaoM/Fantasia): A fancy mod. Never update.
-* [LivingCityTools](https://github.com/MrXiaoM/LivingCityTools): My early period work. Never update just like Fantasia.
-* *[XRay-Forge](https://github.com/MrXiaoM/XRay-Forge): AntiAntiXray+Xray-Mod. It bypassed AntiXray contained in spigot/paper. Does not works on Orebfuscator4.
-* [ChineseDomainSupport](https://github.com/MrXiaoM/ChineseDomainSupport): Add Punycode decodec on server-connecting.
-* [BUGBOOK](https://github.com/MrXiaoM/BUGBOOK): Generate random char to fill the book.
+# Buy me a coffee
 
-# My Other Project about Minecraft
-> Starts with `*` means forks.
+> I actually registered [Buy me a coffee](https://buymeacoffee.com/mrxiaom) but I have no available card now, so `Paypal` instead.
 
-* *[HMCL-PE-CN](https://github.com/MrXiaoM/HMCL-PE-CN): A fancy and simply-modified Minecraft Java Edition Launcher on Android.
-* [McbbsUtil](https://github.com/MrXiaoM/McbbsUtil): Get rating (also "评分" in Chinese) on Discuz! like forum.
-
-# Other things
-* [uta-tap](http://github.com/MrXiaoM/uta-tap): Mikutap fork. Let's sing together!
-* [Eden](https://github.com/MrXiaoM/Eden): My study about decompile large apk on old computers.
-* [MikutapEditor](https://github.com/MrXiaoM/MikutapEditor): Unpack Mikutap easily.
++ Global: [Paypal](https://paypal.me/mrxiaom)
++ Chinese: [爱发电](https://afdian.com/a/mrxiaom), [others](https://www.mrxiaom.top/#sponsors)
 
 <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank">
   <picture>
