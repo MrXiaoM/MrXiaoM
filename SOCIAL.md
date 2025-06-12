@@ -28,7 +28,7 @@ Please support me on [afdian@mrxiaom](https://afdian.net/@mrxiaom)!!
 
 [![网易云音乐](https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E4%BA%BA%E9%97%B4%E5%B7%A5%E4%BD%9C%20%28%E4%BA%BA%E9%97%B4%E5%B7%A5%E4%BD%9Cp%29-blue?style=social)](https://music.163.com/user/home?id=514171774)
 
-[![steam](https://img.shields.io/badge/Steam-LittleCatX-blue?style=social&logo=steam)](https://steamcommunity.com/id/littlecatx/)
+[![steam](https://img.shields.io/badge/Steam-%E4%BA%BA%E9%97%B4%E5%B7%A5%E4%BD%9C-blue?style=social&logo=steam)](https://steamcommunity.com/id/littlecatx/)
 
 [![youtube](https://img.shields.io/badge/Youtube-LittleCatX-blue?style=social&logo=youtube)](https://www.youtube.com/channel/UCmJOPgnAQtN3XWKRHo6U_mA)
 
