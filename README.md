@@ -12,7 +12,7 @@
   <img align="right" src="https://gh-readme-stats.mcio.dev/api?username=mrxiaom&show_icons=true&title_color=00FFC6&text_color=F8F8FF&icon_color=fff000&bg_color=30,10111E,282A35&hide_border=true"/>
 </h2>
 
-I am a noob, and also a 20-year-old college student. I am still learning
+I am a developer, and also a 21-year-old graduating college student. I am still learning
 
 [![kotlin](https://img.shields.io/badge/kotlin-151623?style=for-the-badge&logo=kotlin&logoColor=00FEC5)](https://kotlinlang.org/) 
 [![java](https://img.shields.io/badge/java-151623?style=for-the-badge&logo=openjdk&logoColor=00FEC5)](https://openjdk.org/) 
